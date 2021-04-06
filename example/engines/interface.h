@@ -5,6 +5,7 @@
 #include <string>
 #include <memory>
 #include <set>
+#include <stdexcept>
 
 #include "../device.h"
 

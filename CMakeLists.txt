@@ -7,3 +7,5 @@ project ("example")
 
 # Include sub-projects.
 add_subdirectory ("example")
+
+add_subdirectory("market")
